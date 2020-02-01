@@ -8,7 +8,7 @@ int sub(int x, int y)
 }
 int add(int a, int b)
 {
-    return a-b;
+    return a+b;
 }
 int div(int a, int b)
 {
