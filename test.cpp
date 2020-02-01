@@ -15,5 +15,7 @@ int main()
     cout<<sub(10,2);
     int a=5,b=5;
     cout<<add(a,b)<<endl;
+    //Add multiply - Nomaan
+    //Add divie - Devam
 }
 
