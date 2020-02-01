@@ -10,12 +10,18 @@ int add(int a, int b)
 {
     return a+b;
 }
+int multiply(int a,int b)
+{
+    return a*b;
+}
 int main() 
 {
     cout<<sub(10,2);
     int a=5,b=5;
     cout<<add(a,b)<<endl;
     //Add multiply - Nomaan
+    //Nomaan - BRANCH123
+    cout<<multiply(a,b);
     //Add divie - Devam
 }
 
