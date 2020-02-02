@@ -18,6 +18,10 @@ int multiply(int a,int b)
 {
     return a*b;
 }
+int remainder(int a,int b)
+{
+    return a%b;
+}
 int main() 
 {
     cout<<sub(10,2);
@@ -28,5 +32,8 @@ int main()
     //Nomaan - BRANCH123
     cout<<multiply(a,b);
     //Add divie - Devam
+
+    //Added Nomaan
+    cout<<remainder(11,5);
 }
 
