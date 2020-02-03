@@ -7,4 +7,6 @@ int main()
 {
     calc obj;
     cout<<obj.add(5,6)<<endl;
+    
+    //Add subtract
 }
