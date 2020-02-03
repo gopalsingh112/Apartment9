@@ -10,5 +10,3 @@ int main()
     cout<<obj.sub(10,2)<<endl;
 }
     
-    //Add subtract
-}
